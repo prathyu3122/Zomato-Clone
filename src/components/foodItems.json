@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "imageSrc": "https://geekrobocook.com/wp-content/uploads/2021/03/Tandoori-chicken-biryani.jpg",
+        "foodName": "Chicken Biryani",
+        "price": 320,
+        "rating": 4.5
+    },
+
+    {
+        "id": 2,
+        "imageSrc": "https://img.freepik.com/free-vector/burger-fast-food-concept-hand-drawn-sketch-vector-illustration_91128-1533.jpg?w=2000",
+        "foodName": "Chicken Burger",
+        "price": 490,
+        "rating": 3.5
+    }
+]
